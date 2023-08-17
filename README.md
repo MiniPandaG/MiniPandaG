@@ -1,5 +1,1 @@
-¡Hola!👋 Soy Andrés, un estudiante de ingeniería de software apasionado por el mundo del desarrollo web y la creación de software. Mi experiencia se centra en el diseño y desarrollo de soluciones atractivas y funcionales para entornos digitales. Siempre estoy emocionado por enfrentar nuevos desafíos y aprender en el proceso. ¡Gracias por visitar mi perfil! ❤️
-
-
-
-
+Hi!👋 I'm Andrés, a software engineering student passionate about the world of web development and software creation. My experience focuses on the design and development of attractive and functional solutions for digital environments. I'm always excited to take on new challenges and learn in the process. Thank you for visiting my profile! ❤️
