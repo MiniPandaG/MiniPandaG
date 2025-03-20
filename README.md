@@ -37,6 +37,8 @@ PandaCore Studios es un estudio de desarrollo de software que ofrece soluciones 
 - [LinkedIn](https://www.linkedin.com/in/minipandag/)
 - [Instagram](https://www.instagram.com/minipandaig/)
 - [YouTube](https://www.youtube.com/@MiniPandaG)
+- [WhatsApp](https://api.whatsapp.com/send/?phone=%2B573009045449&text&type=phone_number&app_absent=0)
 - Email: [andres@pandacore.net](mailto:andres@pandacore.net)
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tu-usuario.readme.visitor-badge)](https://github.com/tu-usuario)
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MiniPandaG.readme.visitor-badge)](https://github.com/MiniPandaG)
