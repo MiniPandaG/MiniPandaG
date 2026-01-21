@@ -23,7 +23,7 @@
 ## 🚀 Proyectos destacados
 
 ### PandaCore Solutions
-**CEO, Fundador y Propietario** de [PandaCore Studios](https://pandacore.net/).  
+**CEO, Fundador y Propietario** de [PandaCore Solutions](https://pandacore.net/).  
 PandaCore Studios es un estudio de desarrollo de software que ofrece soluciones digitales personalizadas, incluyendo:
 - **Desarrollo de software:** Creación de aplicaciones y sistemas a medida.
 - **Soluciones de alojamiento:** Hosting optimizado para empresas y particulares.
