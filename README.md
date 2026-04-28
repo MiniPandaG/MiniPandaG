@@ -2,7 +2,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 ¡Hola! Soy **Andrés D.**, estudiante de Ingeniería de Software especializado en administración de sistemas y desarrollo de software. Me apasiona brindar soluciones digitales innovadoras y eficientes. Actualmente, lidero **PandaCore Studios**, donde ofrecemos servicios de desarrollo de software, hosting y consultoría tecnológica.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Lenguajes
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 ### PandaCore Solutions
 **CEO, Fundador y Propietario** de [PandaCore Solutions](https://pandacore.net/).  
@@ -44,7 +44,7 @@ PandaCore Studios es un estudio de desarrollo de software que ofrece soluciones 
 
 ---
 
-## 📫 Conéctate conmigo
+## Trabaja conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/minipandag/)
 - [Instagram](https://www.instagram.com/minipandaig/)
